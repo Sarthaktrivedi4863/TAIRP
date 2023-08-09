@@ -1,1 +1,1 @@
-My portfolio file named as portfolio,html
+My portfolio file named as portfolio.html
